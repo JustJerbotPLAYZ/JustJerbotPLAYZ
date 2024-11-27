@@ -15,5 +15,3 @@ My dedication to problem-solving has driven me to pursue a career in software de
 - **Email:** [YourEmail@example.com](mailto:238632@student.scalda.nl)  
 - **GitHub:** [YourGitHubUsername](https://github.com/JustJerbotPLAYZ)  
 - **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/jeroensuurmond/)  
-
----
